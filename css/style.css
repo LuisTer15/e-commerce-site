@@ -1,0 +1,75 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body { 
+	padding-top: 75px; 
+}
+
+nav i {
+	margin-right: 4px;
+}
+
+#myModal img {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 5px 0 5px 0;
+}
+
+#tab_modal {
+	margin-top: 20px;
+}
+
+#add_fav_modal {
+	color: #337ab7;
+	margin-top: 15px;
+}
+
+#add_fav_modal i {
+	margin-right: 5px;
+}
+
+#description, #comments {
+	margin: 15px;
+}
+
+#head {
+	position: relative;
+}
+
+#search_box {
+	margin-bottom: 25px;
+}
+
+#categories {
+	position: absolute;
+	margin-top: 50px;
+}
+
+#btn_category {
+	width: 100%;
+	text-align: initial;
+}
+
+#items_wrapper {
+	padding: 0;
+	margin-bottom: 50px;
+}
+
+#items img {
+	width: 100%;
+}
+
+#item_box {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	margin-top: 25px;
+	padding: 5px 10px 15px 10px;
+}
+
+#btn_item i {
+	margin-left: 4px;
+}
