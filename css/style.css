@@ -68,8 +68,15 @@ nav i {
 	border-radius: 5px;
 	margin-top: 25px;
 	padding: 5px 10px 15px 10px;
+	min-height: 340px;
 }
+
+#item_box button {
+	margin-top: 5px;
+} 
 
 #btn_item i {
 	margin-left: 4px;
 }
+
+
